@@ -1,0 +1,9 @@
+username,bank,account_no,Gender,Married,Dependents,Education,ApplicantIncome,CoapplicantIncome,LoanAmount,Loan_Amount_Term,Credit_History,Property_Area,mobile,status,submitted_at,Prediction
+raghu,SBI,1234567890123,Male,Yes,1,Graduate,5000,1500,120,360,1.0,Urban,9876543210,Under Review,2025-07-05 12:00:00,✅ Approved
+raghu1,Axis,1234567890123,Male,No,1,Graduate,149994,56000,500000,333,1.0,Semiurban,1234567890,Under Review,2025-07-05 12:09:25,✅ Approved
+raghu1,HDFC,1234567890123,Female,No,2,Not Graduate,4823222,523547,462855,180,0.0,Rural,7989024070,Under Review,2025-07-05 12:13:05,❌ Rejected
+raghu1,HDFC,5678901234567,Male,Yes,3+,Not Graduate,50000,55999,1000000,360,1.0,Semiurban,5643278654,Under Review,2025-07-05 12:18:40,❌ Rejected
+raghu1,Kotak,1234567890123,Female,No,1,Graduate,100000,150000,1000000,342,1.0,Semiurban,6303968581,Under Review,2025-07-05 12:24:01,❌ Rejected
+aasg,HDFC,1234567890134,Male,Yes,1,Graduate,100000,34998,499999,365,1.0,Urban,6303968581,Under Review,2025-11-13 09:12:24,✅ Approved
+anjili,HDFC,1234567890123,Male,Yes,1,Graduate,50000,30000,100000,365,1.0,Urban,6303968581,Under Review,2025-11-19 10:56:01,✅ Approved
+QQQQ,HDFC,1234567812345,Male,Yes,0,Graduate,123,538,22,23,1.0,Urban,4567899876,Under Review,2026-06-17 08:20:42,✅ Approved
