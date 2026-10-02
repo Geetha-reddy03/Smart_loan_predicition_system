@@ -5,9 +5,11 @@ A machine learning–powered web application that predicts loan approval outcome
 🔗 Live App:https://smartloanpredicitionsystem-2tizdwudlgmigypme4urmc.streamlit.app/
 
 📌 Overview
+
 The Smart Loan Approval Prediction system allows users to sign up, log in, and apply for a loan through a simple web interface. A trained machine learning model predicts whether the loan is likely to be approved, and an admin dashboard provides visual insights into application trends. The app also uses SHAP to explain individual predictions, making the model's decisions transparent.
 
 ✨ Features
+
 🔐 User Authentication — Sign up and log in securely
 📝 Loan Application — Users can submit loan details for prediction
 🤖 ML-Based Prediction — Trained scikit-learn model predicts approval status
@@ -16,6 +18,7 @@ The Smart Loan Approval Prediction system allows users to sign up, log in, and a
 📈 Application Tracking — Track submitted applications over time
 
 🛠️ Tech Stack
+
 Category	Technology
 Frontend / App Framework	Streamlit
 Machine Learning	scikit-learn, joblib
@@ -26,6 +29,7 @@ Deployment	Streamlit Community Cloud
 Version Control	Git & GitHub
 
 📂 Project Structure
+
 smart_loan_predicition_system/
 │
 ├── app.py                     # Main application entry point
@@ -43,6 +47,7 @@ smart_loan_predicition_system/
 │   └── loan_model.pkl          # Trained ML model
 │
 └── README.md
+
 🚀 Getting Started (Run Locally)
 Clone the repository
 bash
@@ -70,6 +75,7 @@ Click Create app → select the repository, branch, and app.py as the main file.
 Click Deploy.
 
 📋 How It Works
+
 A new user signs up or an existing user logs in.
 The user fills out the loan application form with their details.
 The trained ML model predicts whether the loan is likely to be approved or rejected.
